@@ -1,0 +1,852 @@
+[
+    {
+        "serviceId": 34,
+        "serviceName": "对象存储（FDS）",
+        "shortName": "fds",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment",
+            "Quality",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 24,
+        "serviceName": "结构化存储（SDS）",
+        "shortName": "sds",
+        "submodules": [
+            "Overview",
+            "Quality",
+            "Feedback",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 25,
+        "serviceName": "流式作业管理",
+        "shortName": "jobplatform",
+        "submodules": [
+            "Overview",
+            "CommunityShop",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 116,
+        "serviceName": "米效（MiOne）",
+        "shortName": "mione",
+        "submodules": [
+            "Overview",
+            "ExperienceArea",
+            "Comment",
+            "Feedback"
+        ]
+    },
+    {
+        "serviceId": 30,
+        "serviceName": "时序数据库（TSDB）",
+        "shortName": "tsdb",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Quality",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 138,
+        "serviceName": "MiCE（容器引擎）",
+        "shortName": "MiCE",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 29,
+        "serviceName": "容器镜像",
+        "shortName": "docker",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop"
+        ]
+    },
+    {
+        "serviceId": 35,
+        "serviceName": "消息队列（EMQ）",
+        "shortName": "emq",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "Quality",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 4,
+        "serviceName": "Elasticsearch",
+        "shortName": "es",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 7,
+        "serviceName": "HDFS",
+        "shortName": "mihdfs",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 11,
+        "serviceName": "MiQuery（原OLAP）",
+        "shortName": "miquery",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 15,
+        "serviceName": "Talos Platform",
+        "shortName": "talos",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "Quality",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 91,
+        "serviceName": "Druid",
+        "shortName": "druid",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 118,
+        "serviceName": "EIP",
+        "shortName": "eip",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Quality"
+        ]
+    },
+    {
+        "serviceId": 5,
+        "serviceName": "Gitlab",
+        "shortName": "gitlab",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 10,
+        "serviceName": "Kubernetes",
+        "shortName": "kubernetes",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 38,
+        "serviceName": "邮件服务（Mail）",
+        "shortName": "mail",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 12,
+        "serviceName": "Pegasus",
+        "shortName": "mipegasus",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 322,
+        "serviceName": "编译部署",
+        "shortName": "deployment-system",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 362,
+        "serviceName": "编译部署平台",
+        "shortName": "deployment",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 41,
+        "serviceName": "资源管理服务",
+        "shortName": "yarn",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "Quality",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 136,
+        "serviceName": "falcon",
+        "shortName": "falcon",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 378,
+        "serviceName": "小米帐号平台（MiAccount）",
+        "shortName": "miaccount",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 33,
+        "serviceName": "团队管理(CloudManager)",
+        "shortName": "cloudmanager",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Quality",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 103,
+        "serviceName": "Shorturl（短链接）",
+        "shortName": "shorturl",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 22,
+        "serviceName": "反馈系统",
+        "shortName": "feedback",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 9,
+        "serviceName": "Jenkins",
+        "shortName": "jenkins",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 135,
+        "serviceName": "Phabricator (软件开发协作工具)",
+        "shortName": "phabricator",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 394,
+        "serviceName": "融小二",
+        "shortName": "dcloudwaiter",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 353,
+        "serviceName": "技术社区",
+        "shortName": "community",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 395,
+        "serviceName": "KeyCenter 密钥中心",
+        "shortName": "keycenter",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 1,
+        "serviceName": "技术产品点评",
+        "shortName": "dianping",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 139,
+        "serviceName": "Redis on K8S",
+        "shortName": "redis_on_k8s",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 94,
+        "serviceName": "Spark",
+        "shortName": "spark",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 108,
+        "serviceName": "Azkaban工作流",
+        "shortName": "azkaban",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 96,
+        "serviceName": "Superset（云平台部）",
+        "shortName": "superset",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 125,
+        "serviceName": "Redash",
+        "shortName": "redash",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 95,
+        "serviceName": "Kylin",
+        "shortName": "kylin",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop"
+        ]
+    },
+    {
+        "serviceId": 55,
+        "serviceName": "深度学习（Cloud-ML）",
+        "shortName": "cloudml",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 133,
+        "serviceName": "Kudu",
+        "shortName": "kudu",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "Cost"
+        ]
+    },
+    {
+        "serviceId": 399,
+        "serviceName": "米盾安全代理",
+        "shortName": "secproxy",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 8,
+        "serviceName": "IAuth",
+        "shortName": "iauth",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 19,
+        "serviceName": "部署服务",
+        "shortName": "minos",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 396,
+        "serviceName": "图数据库（GDB）",
+        "shortName": "gdb",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Comment",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 40,
+        "serviceName": "账单",
+        "shortName": "micost",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 60,
+        "serviceName": "Wiki",
+        "shortName": "Wiki",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 59,
+        "serviceName": "TeamBition",
+        "shortName": "TeamBition",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 58,
+        "serviceName": "Jira",
+        "shortName": "Jira",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 127,
+        "serviceName": "鹰眼平台",
+        "shortName": "yingyanpingtai",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 83,
+        "serviceName": "小蜜蜂调研平台",
+        "shortName": "xiaomifengdiaoyanpingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 85,
+        "serviceName": "superset（互四）",
+        "shortName": "superSet",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 75,
+        "serviceName": "DBA管理平台（OPM）",
+        "shortName": "dbaopm",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 84,
+        "serviceName": "消息推送",
+        "shortName": "xiaoxituisong",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 112,
+        "serviceName": "API 网关系统",
+        "shortName": "API wangguanxitong",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 80,
+        "serviceName": "Chaos小米网运维平台",
+        "shortName": "chaosmisre",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 45,
+        "serviceName": "数据工场",
+        "shortName": "shujugongchang",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 70,
+        "serviceName": "哈士奇工具平台（Husky）",
+        "shortName": "husky",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 90,
+        "serviceName": "Neo容器云",
+        "shortName": "neocontainer",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 2,
+        "serviceName": "API网关",
+        "shortName": "apigateway",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 14,
+        "serviceName": "Shepher（zkview）",
+        "shortName": "zkview",
+        "submodules": [
+            "Overview"
+        ]
+    },
+    {
+        "serviceId": 104,
+        "serviceName": "中台社区",
+        "shortName": "zhongtaishequ",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 89,
+        "serviceName": "中台评论",
+        "shortName": "zhongtaipinglun",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 105,
+        "serviceName": "中台活动运营",
+        "shortName": "zhongtaihuodongyunying",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 49,
+        "serviceName": "用户画像平台",
+        "shortName": "yonghuhuaxiangpingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 87,
+        "serviceName": "小米数据统计",
+        "shortName": "xiaomishujutongji",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 415,
+        "serviceName": "搜索服务",
+        "shortName": "search",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 6,
+        "serviceName": "HBase",
+        "shortName": "HBase",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "CommunityShop",
+            "Quality",
+            "Comment",
+            "Cost",
+            "ExperienceArea"
+        ]
+    },
+    {
+        "serviceId": 107,
+        "serviceName": "爬虫平台",
+        "shortName": "pachongpingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 128,
+        "serviceName": "数据标注平台",
+        "shortName": "shujubiaozhupingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 88,
+        "serviceName": "AB实验平台",
+        "shortName": "shiyanpingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 106,
+        "serviceName": "中台云控",
+        "shortName": "zhongtaiyunkong",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 43,
+        "serviceName": "测试平台",
+        "shortName": "ceshipingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 422,
+        "serviceName": "风控API",
+        "shortName": "risk management",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 423,
+        "serviceName": "人机识别平台",
+        "shortName": "renjishibie",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 47,
+        "serviceName": "推荐开放平台",
+        "shortName": "tuijiankaifangpingtai",
+        "submodules": [
+            "Overview",
+            "Feedback",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 425,
+        "serviceName": "内容运营平台",
+        "shortName": "neirongyunying",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 428,
+        "serviceName": "文本理解服务",
+        "shortName": "wenbenlijie",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 427,
+        "serviceName": "图像理解服务",
+        "shortName": "tuxianglijie",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 426,
+        "serviceName": "视频理解服务",
+        "shortName": "shipinlijie",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 431,
+        "serviceName": "质量管理系统",
+        "shortName": "qms",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 432,
+        "serviceName": "域名服务",
+        "shortName": "domain",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 50,
+        "serviceName": "增长分析平台（GA）",
+        "shortName": "zengchangfenxipingtai（GA）",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 355,
+        "serviceName": "中台审核平台",
+        "shortName": "zhongtaishenhepingtai",
+        "submodules": [
+            "Overview",
+            "Comment"
+        ]
+    },
+    {
+        "serviceId": 336,
+        "serviceName": "信息流分析工具",
+        "shortName": "xinxiliufenxigongju",
+        "submodules": [
+            "Overview"
+        ]
+    }
+]

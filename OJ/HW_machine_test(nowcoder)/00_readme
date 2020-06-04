@@ -1,0 +1,25 @@
+# -*- coding: UTF-8 -*-
+# @File  :  00_sample
+# @Time  :  2019/9/17 16:03
+# @Author:  liuzhiqiang
+
+#获取标准输入数据
+import sys
+for line in sys.stdin:
+    # a = line.split()
+    # print(int(a[0]) + int(a[1]))
+    print(line.strip())
+
+#================================================================
+#常量
+num = int()
+strs = str()
+lst = list()
+d = dict()
+array = tuple()
+
+#================================================================
+#函数
+bin()   #转换为二进制
+strs.sort()   #元素排序，（按字典序排列）
+map(function=int, iterable)
